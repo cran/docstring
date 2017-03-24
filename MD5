@@ -1,0 +1,10 @@
+da0a3a30c28e6b59146d7b6671098e8f *DESCRIPTION
+29ae8e237de444c798d90875999dad5a *NAMESPACE
+e7fd645a1e98c09f6ddf580827837cac *NEWS.md
+1025286a629ec16873342d7eabd63efa *R/docstring.R
+fbac3f80862603d6375efae018d92e29 *build/vignette.rds
+7e202b9af4cf22734eb02893140354e6 *inst/doc/docstring_intro.R
+d4ace753b3b4caa0f81e005e6996ff33 *inst/doc/docstring_intro.Rmd
+5027dee4343c0a037310255656413c49 *inst/doc/docstring_intro.html
+fe1d171b37296f2df950e609245d439e *man/docstring.Rd
+d4ace753b3b4caa0f81e005e6996ff33 *vignettes/docstring_intro.Rmd
